@@ -26,6 +26,7 @@
         <jacoco.out.ut.file>jacoco-ut.exec</jacoco.out.ut.file>
         <sonar.jacoco.reportPaths>${jacoco.outputDir}/${jacoco.out.ut.file}</sonar.jacoco.reportPaths>
         <sonar.junit.reportsPaths>${jacoco.outputDir}/${jacoco.out.ut.file}</sonar.junit.reportsPaths>
+		<sonar.host.url>http://192.168.1.4:9000</sonar.host.url>
     </properties>
 
     <dependencies>
