@@ -10,8 +10,8 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <sonar.projectKey>kknkey</sonar.projectKey>
-        <sonar.projectName>SampleSKP</sonar.projectName>
+        <sonar.projectKey>fins</sonar.projectKey>
+        <sonar.projectName>FINSample</sonar.projectName>
         <sonar.projectVersion>1</sonar.projectVersion>
         <sonar.language>java</sonar.language>
         <sonar.sourceEncoding>UTF-8</sonar.sourceEncoding>
@@ -24,6 +24,7 @@
         <jacoco.out.ut.file>jacoco-ut.exec</jacoco.out.ut.file>
         <sonar.jacoco.reportPaths>${jacoco.outputDir}/${jacoco.out.ut.file}</sonar.jacoco.reportPaths>
         <sonar.junit.reportsPaths>${jacoco.outputDir}/${jacoco.out.ut.file}</sonar.junit.reportsPaths>
+		<sonar.host.url>http://192.168.1.4:9000</sonar.host.url>
     </properties>
 
     <dependencies>
