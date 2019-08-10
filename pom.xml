@@ -94,5 +94,5 @@
                 </executions>
             </plugin>
         </plugins>
-    </build>
-</project>
+</projects>
+
