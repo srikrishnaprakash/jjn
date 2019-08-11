@@ -1,4 +1,4 @@
-node ('Sri') {
+node ('Srikpkash') {
 	WS = env.WORKSPACE
 	checkout scm
     stage ('Build') {
