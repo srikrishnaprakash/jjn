@@ -26,7 +26,7 @@
         <sonar.junit.reportsPaths>${jacoco.outputDir}/${jacoco.out.ut.file}</sonar.junit.reportsPaths>
 		<sonar.host.url>http://192.168.1.4:9000</sonar.host.url>
     </properties>
-
+    <!-- Dependencies for the app -->
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
