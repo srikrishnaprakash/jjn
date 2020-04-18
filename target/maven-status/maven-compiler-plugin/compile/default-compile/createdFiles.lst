@@ -1,0 +1,4 @@
+com\mydomain\sut_and_collaborator\Collaborator.class
+com\mydomain\App.class
+com\mydomain\sut_and_collaborator\MySystemUnderTest.class
+com\mydomain\Calculator.class

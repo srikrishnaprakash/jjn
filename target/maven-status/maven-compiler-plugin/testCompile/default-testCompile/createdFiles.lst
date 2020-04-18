@@ -1,0 +1,6 @@
+com\mydomain\mock_list\MockListTest.class
+com\mydomain\RepeatedMocker$SystemUnderTest.class
+com\mydomain\RepeatedMocker$VersionManager.class
+com\mydomain\AppTest.class
+com\mydomain\CalculatorTest.class
+com\mydomain\RepeatedMocker.class
