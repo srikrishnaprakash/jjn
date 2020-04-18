@@ -7,7 +7,6 @@
     <packaging>war</packaging>
     <name>junit-demo</name>
     <url>http://maven.apache.org</url>
-    <!-- Added comment for web hook -->
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <sonar.projectKey>fins</sonar.projectKey>
