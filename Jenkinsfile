@@ -5,7 +5,7 @@ node ('Srikpkash') {
         println("Building the multi branch pipeline app using the tool maven")
 		sh "mvn -f $WS/pom.xml clean package"
     }
-    stage ('Deploy') {
+    stage ('Deploy-Stage') {
          println("Application deployed successfully")
     }
 }
